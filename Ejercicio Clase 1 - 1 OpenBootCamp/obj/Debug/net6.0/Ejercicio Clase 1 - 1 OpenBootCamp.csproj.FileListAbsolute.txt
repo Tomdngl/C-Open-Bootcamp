@@ -1,0 +1,15 @@
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\bin\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.exe
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\bin\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.deps.json
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\bin\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.runtimeconfig.json
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\bin\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.dll
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\bin\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.pdb
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.csproj.AssemblyReference.cache
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.AssemblyInfoInputs.cache
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.AssemblyInfo.cs
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.csproj.CoreCompileInputs.cache
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.dll
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\refint\Ejercicio Clase 1 - 1 OpenBootCamp.dll
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.pdb
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\Ejercicio Clase 1 - 1 OpenBootCamp.genruntimeconfig.cache
+D:\Users\Tom\source\repos\Ejercicios OpenBootcamp\Ejercicio Clase 1 - 1 OpenBootCamp\obj\Debug\net6.0\ref\Ejercicio Clase 1 - 1 OpenBootCamp.dll
